@@ -1,0 +1,18 @@
+body
+{
+    font-family: 'Bebas Neue', cursive;
+}
+
+header {
+    position: absolute;
+    transform: translate(0, -70px);
+}
+#name {
+    font-size: 75px;
+}
+
+#title {
+    font-size: 45px;
+    position: relative;
+    transform: translate(0, -70px);
+}
